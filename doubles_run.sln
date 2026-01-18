@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "doubles_run", "doubles_run.csproj", "{EEEFC2E4-090C-253F-1CD3-8C01CE49F08A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEEFC2E4-090C-253F-1CD3-8C01CE49F08A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEEFC2E4-090C-253F-1CD3-8C01CE49F08A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEEFC2E4-090C-253F-1CD3-8C01CE49F08A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEEFC2E4-090C-253F-1CD3-8C01CE49F08A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2448AA6-40BB-467E-9DD1-44CBA67B14CD}
+	EndGlobalSection
+EndGlobal

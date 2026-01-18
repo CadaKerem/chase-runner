@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"c:/Users/kbarb/Desktop/Files/İsü/Game dev/v4/doubles_run_v3/doubles_run/doubles_run/Content/kid_duck.png","c:/Users/kbarb/Desktop/Files/İsü/Game dev/v4/doubles_run_v3/doubles_run/doubles_run/Content/bin/DesktopGL/kid_duck.xnb","TextureProcessor","Texture2DContent",5939,48085,0,1111845
+"c:/Users/kbarb/Desktop/Files/İsü/Game dev/v4/doubles_run_v3/doubles_run/doubles_run/Content/kid_jump.png","c:/Users/kbarb/Desktop/Files/İsü/Game dev/v4/doubles_run_v3/doubles_run/doubles_run/Content/bin/DesktopGL/kid_jump.xnb","TextureProcessor","Texture2DContent",4186,40885,0,0051287
+"c:/Users/kbarb/Desktop/Files/İsü/Game dev/v4/doubles_run_v3/doubles_run/doubles_run/Content/kid_run.png","c:/Users/kbarb/Desktop/Files/İsü/Game dev/v4/doubles_run_v3/doubles_run/doubles_run/Content/bin/DesktopGL/kid_run.xnb","TextureProcessor","Texture2DContent",29970,460885,0,0175175

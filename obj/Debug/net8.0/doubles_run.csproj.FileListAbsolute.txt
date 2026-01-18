@@ -1,0 +1,234 @@
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\bin\Debug\net8.0\doubles_run.exe
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\bin\Debug\net8.0\doubles_run.deps.json
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\bin\Debug\net8.0\doubles_run.runtimeconfig.json
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\bin\Debug\net8.0\doubles_run.dll
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\bin\Debug\net8.0\doubles_run.pdb
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\bin\Debug\net8.0\MonoGame.Framework.dll
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\bin\Debug\net8.0\NVorbis.dll
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\android-arm\native\libopenal.so
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\android-arm64\native\libopenal.so
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\android-x64\native\libopenal.so
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\android-x86\native\libopenal.so
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\ios-arm64\native\libopenal.a
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\iossimulator-arm64\native\libopenal.a
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\iossimulator-x64\native\libopenal.a
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\linux-arm64\native\libopenal.so
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\osx\native\libopenal.dylib
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\win-x64\native\openal.dll
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\obj\Debug\net8.0\mgcb.tool.restore
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.csproj.AssemblyReference.cache
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.AssemblyInfoInputs.cache
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.AssemblyInfo.cs
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.csproj.CoreCompileInputs.cache
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\obj\Debug\net8.0\doubles_.472CAA9E.Up2Date
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.dll
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\obj\Debug\net8.0\refint\doubles_run.dll
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.pdb
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.genruntimeconfig.cache
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\doubles_run\doubles_run\obj\Debug\net8.0\ref\doubles_run.dll
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\bin\Debug\net8.0\doubles_run.exe
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\bin\Debug\net8.0\doubles_run.deps.json
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\bin\Debug\net8.0\doubles_run.runtimeconfig.json
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\bin\Debug\net8.0\doubles_run.dll
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\bin\Debug\net8.0\doubles_run.pdb
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\bin\Debug\net8.0\MonoGame.Framework.dll
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\bin\Debug\net8.0\NVorbis.dll
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\android-arm\native\libopenal.so
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\android-arm64\native\libopenal.so
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\android-x64\native\libopenal.so
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\android-x86\native\libopenal.so
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\ios-arm64\native\libopenal.a
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\iossimulator-arm64\native\libopenal.a
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\iossimulator-x64\native\libopenal.a
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\linux-arm64\native\libopenal.so
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\osx\native\libopenal.dylib
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\win-x64\native\openal.dll
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\obj\Debug\net8.0\mgcb.tool.restore
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.csproj.AssemblyReference.cache
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.AssemblyInfoInputs.cache
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.AssemblyInfo.cs
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.csproj.CoreCompileInputs.cache
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\obj\Debug\net8.0\doubles_.472CAA9E.Up2Date
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.dll
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\obj\Debug\net8.0\refint\doubles_run.dll
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.pdb
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.genruntimeconfig.cache
+C:\Users\H-LAB06-039\Downloads\doubles_run_v2-20251227T123916Z-1-001\doubles_run_v2\doubles_run\doubles_run\obj\Debug\net8.0\ref\doubles_run.dll
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\doubles_run.exe
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\doubles_run.deps.json
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\doubles_run.runtimeconfig.json
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\doubles_run.dll
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\doubles_run.pdb
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\MonoGame.Framework.dll
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\NVorbis.dll
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\android-arm\native\libopenal.so
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\android-arm64\native\libopenal.so
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\android-x64\native\libopenal.so
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\android-x86\native\libopenal.so
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\ios-arm64\native\libopenal.a
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\iossimulator-arm64\native\libopenal.a
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\iossimulator-x64\native\libopenal.a
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\linux-arm64\native\libopenal.so
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\osx\native\libopenal.dylib
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\win-x64\native\openal.dll
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\obj\Debug\net8.0\mgcb.tool.restore
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.csproj.AssemblyReference.cache
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.AssemblyInfoInputs.cache
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.AssemblyInfo.cs
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.csproj.CoreCompileInputs.cache
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\obj\Debug\net8.0\doubles_.472CAA9E.Up2Date
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.dll
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\obj\Debug\net8.0\refint\doubles_run.dll
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.pdb
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.genruntimeconfig.cache
+C:\Users\H-LAB06-039\Desktop\doubles_run_v3\doubles_run\doubles_run\obj\Debug\net8.0\ref\doubles_run.dll
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\doubles_run.exe
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\doubles_run.deps.json
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\doubles_run.runtimeconfig.json
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\doubles_run.dll
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\doubles_run.pdb
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\MonoGame.Framework.dll
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\NVorbis.dll
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\android-arm\native\libopenal.so
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\android-arm64\native\libopenal.so
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\android-x64\native\libopenal.so
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\android-x86\native\libopenal.so
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\ios-arm64\native\libopenal.a
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\iossimulator-arm64\native\libopenal.a
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\iossimulator-x64\native\libopenal.a
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\linux-arm64\native\libopenal.so
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\osx\native\libopenal.dylib
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\win-x64\native\openal.dll
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\obj\Debug\net8.0\mgcb.tool.restore
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.csproj.AssemblyReference.cache
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.AssemblyInfoInputs.cache
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.AssemblyInfo.cs
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.csproj.CoreCompileInputs.cache
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\obj\Debug\net8.0\doubles_.472CAA9E.Up2Date
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.dll
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\obj\Debug\net8.0\refint\doubles_run.dll
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.pdb
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\obj\Debug\net8.0\doubles_run.genruntimeconfig.cache
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\obj\Debug\net8.0\ref\doubles_run.dll
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\Content\play_button.xnb
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\Content\quit_button.xnb
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\Content\cloud_image.xnb
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\Content\obstacle_air.xnb
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\Content\obstacle_ground.xnb
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\Content\health_pack.xnb
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\Content\butcher_run.xnb
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\Content\butcher_duck.xnb
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\Content\butcher_jump.xnb
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\Content\kid_duck.xnb
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\Content\kid_jump.xnb
+C:\Users\kbarb\Desktop\Files\İsü\Game dev\v4\doubles_run_v3\doubles_run\doubles_run\bin\Debug\net8.0\Content\kid_run.xnb
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\Content\butcher_duck.xnb
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\Content\butcher_jump.xnb
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\Content\butcher_run.xnb
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\Content\cloud_image.xnb
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\Content\health_pack.xnb
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\Content\kid_duck.xnb
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\Content\kid_jump.xnb
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\Content\kid_run.xnb
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\Content\obstacle_air.xnb
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\Content\obstacle_ground.xnb
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\Content\play_button.xnb
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\Content\quit_button.xnb
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\doubles_run.exe
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\doubles_run.deps.json
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\doubles_run.runtimeconfig.json
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\doubles_run.dll
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\doubles_run.pdb
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\MonoGame.Framework.dll
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\NVorbis.dll
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\runtimes\android-arm\native\libopenal.so
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\runtimes\android-arm64\native\libopenal.so
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\runtimes\android-x64\native\libopenal.so
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\runtimes\android-x86\native\libopenal.so
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\runtimes\ios-arm64\native\libopenal.a
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\runtimes\iossimulator-arm64\native\libopenal.a
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\runtimes\iossimulator-x64\native\libopenal.a
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\runtimes\linux-arm64\native\libopenal.so
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\runtimes\osx\native\libopenal.dylib
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\runtimes\win-x64\native\openal.dll
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\kbarb\Desktop\doubles_run\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\kbarb\Desktop\doubles_run\obj\Debug\net8.0\mgcb.tool.restore
+C:\Users\kbarb\Desktop\doubles_run\obj\Debug\net8.0\doubles_run.csproj.AssemblyReference.cache
+C:\Users\kbarb\Desktop\doubles_run\obj\Debug\net8.0\doubles_run.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbarb\Desktop\doubles_run\obj\Debug\net8.0\doubles_run.AssemblyInfoInputs.cache
+C:\Users\kbarb\Desktop\doubles_run\obj\Debug\net8.0\doubles_run.AssemblyInfo.cs
+C:\Users\kbarb\Desktop\doubles_run\obj\Debug\net8.0\doubles_run.csproj.CoreCompileInputs.cache
+C:\Users\kbarb\Desktop\doubles_run\obj\Debug\net8.0\doubles_.472CAA9E.Up2Date
+C:\Users\kbarb\Desktop\doubles_run\obj\Debug\net8.0\doubles_run.dll
+C:\Users\kbarb\Desktop\doubles_run\obj\Debug\net8.0\refint\doubles_run.dll
+C:\Users\kbarb\Desktop\doubles_run\obj\Debug\net8.0\doubles_run.pdb
+C:\Users\kbarb\Desktop\doubles_run\obj\Debug\net8.0\doubles_run.genruntimeconfig.cache
+C:\Users\kbarb\Desktop\doubles_run\obj\Debug\net8.0\ref\doubles_run.dll
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\Content\butcher_duck.xnb
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\Content\butcher_jump.xnb
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\Content\butcher_run.xnb
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\Content\cloud_image.xnb
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\Content\health_pack.xnb
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\Content\kid_duck.xnb
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\Content\kid_jump.xnb
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\Content\kid_run.xnb
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\Content\obstacle_air.xnb
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\Content\obstacle_ground.xnb
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\Content\play_button.xnb
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\Content\quit_button.xnb
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\doubles_run.exe
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\doubles_run.deps.json
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\doubles_run.runtimeconfig.json
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\doubles_run.dll
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\doubles_run.pdb
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\MonoGame.Framework.dll
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\NVorbis.dll
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\runtimes\android-arm\native\libopenal.so
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\runtimes\android-arm64\native\libopenal.so
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\runtimes\android-x64\native\libopenal.so
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\runtimes\android-x86\native\libopenal.so
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\runtimes\ios-arm64\native\libopenal.a
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\runtimes\iossimulator-arm64\native\libopenal.a
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\runtimes\iossimulator-x64\native\libopenal.a
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\runtimes\linux-arm64\native\libopenal.so
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\runtimes\osx\native\libopenal.dylib
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\runtimes\win-x64\native\openal.dll
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\obj\Debug\net8.0\mgcb.tool.restore
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\obj\Debug\net8.0\doubles_run.csproj.AssemblyReference.cache
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\obj\Debug\net8.0\doubles_run.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\obj\Debug\net8.0\doubles_run.AssemblyInfoInputs.cache
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\obj\Debug\net8.0\doubles_run.AssemblyInfo.cs
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\obj\Debug\net8.0\doubles_run.csproj.CoreCompileInputs.cache
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\obj\Debug\net8.0\doubles_.472CAA9E.Up2Date
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\obj\Debug\net8.0\doubles_run.dll
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\obj\Debug\net8.0\refint\doubles_run.dll
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\obj\Debug\net8.0\doubles_run.pdb
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\obj\Debug\net8.0\doubles_run.genruntimeconfig.cache
+C:\Users\kbarb\Desktop\KeremBarbaros_Karnabat_2305041052_GameProgramming1\doubles_run\obj\Debug\net8.0\ref\doubles_run.dll

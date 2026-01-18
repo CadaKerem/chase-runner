@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>c:/Users/kbarb/Desktop/Files/İsü/Game dev/v4/doubles_run_v3/doubles_run/doubles_run/Content/butcher_duck.png</File>
+    <File>c:/Users/kbarb/Desktop/Files/İsü/Game dev/v4/doubles_run_v3/doubles_run/doubles_run/Content/butcher_jump.png</File>
+    <File>c:/Users/kbarb/Desktop/Files/İsü/Game dev/v4/doubles_run_v3/doubles_run/doubles_run/Content/butcher_run.png</File>
+    <File>c:/Users/kbarb/Desktop/Files/İsü/Game dev/v4/doubles_run_v3/doubles_run/doubles_run/Content/cloud_image.png</File>
+    <File>c:/Users/kbarb/Desktop/Files/İsü/Game dev/v4/doubles_run_v3/doubles_run/doubles_run/Content/health_pack.png</File>
+    <File>c:/Users/kbarb/Desktop/Files/İsü/Game dev/v4/doubles_run_v3/doubles_run/doubles_run/Content/kid_duck.png</File>
+    <File>c:/Users/kbarb/Desktop/Files/İsü/Game dev/v4/doubles_run_v3/doubles_run/doubles_run/Content/kid_jump.png</File>
+    <File>c:/Users/kbarb/Desktop/Files/İsü/Game dev/v4/doubles_run_v3/doubles_run/doubles_run/Content/kid_run.png</File>
+    <File>c:/Users/kbarb/Desktop/Files/İsü/Game dev/v4/doubles_run_v3/doubles_run/doubles_run/Content/obstacle_air.png</File>
+    <File>c:/Users/kbarb/Desktop/Files/İsü/Game dev/v4/doubles_run_v3/doubles_run/doubles_run/Content/obstacle_ground.png</File>
+    <File>c:/Users/kbarb/Desktop/Files/İsü/Game dev/v4/doubles_run_v3/doubles_run/doubles_run/Content/play_button.png</File>
+    <File>c:/Users/kbarb/Desktop/Files/İsü/Game dev/v4/doubles_run_v3/doubles_run/doubles_run/Content/quit_button.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

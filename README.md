@@ -20,5 +20,4 @@ Originally developed as a game programming project, it features custom physics, 
 ## 🚀 Getting Started
 1. Clone this repository: `git clone https://github.com/CadaKerem/chase-runner.git`
 2. Open the `.sln` solution file in **Visual Studio**.
-3. **Important Note on Assets:** This repository focuses on the codebase. You may need to provide your own placeholder textures (e.g., `kid_run.png`, `butcher_jump.png`) and add them via the MonoGame Content Pipeline tool (`Content.mgcb`) if the original art assets are not included in the repo.
-4. Restore NuGet packages, build, and run the project.
+3. Restore NuGet packages, build, and run the project! (All necessary MonoGame Content assets are included).

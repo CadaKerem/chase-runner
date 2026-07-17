@@ -1,13 +1,13 @@
 # Chase Runner 🏃
 
-> A fast-paced, dual-character chase runner game built with MonoGame and C#.
+> A fast-paced, local 2-player chase runner game built with MonoGame and C#.
 
 *(Oyun içi görseller ve GIF'ler eklenecek)*
 
 ## 🎮 About The Game
-Chase Runner is an interactive 2D runner game focusing on unique dual-character mechanics. Instead of controlling a single protagonist, you must simultaneously manage two characters in a high-stakes chase. The tension of the game lies in the dynamic distance between the two—this distance acts as your core survival metric. 
+Chase Runner is a local 2-player 2D runner game — one player controls the Kid trying to survive, while the other plays as the Butcher hunting them down, both sharing the same keyboard. The tension lies in the dynamic distance between the two characters — this distance acts as the core survival metric of the game.
 
-Originally developed as a game programming project, it features custom physics, collision detection, and tight control loops.
+Originally developed as a game programming project, it features custom physics, collision detection, and tight per-player control loops.
 
 ## 🕹️ Controls
 - **Kid (The Runner):** `Up Arrow` / `Down Arrow` to dodge obstacles.

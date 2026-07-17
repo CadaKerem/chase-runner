@@ -18,6 +18,6 @@ Originally developed as a game programming project, it features custom physics, 
 - **MonoGame Framework**
 
 ## 🚀 Getting Started
-1. Clone this repository: `git clone https://github.com/CadaKerem/chase-runner.git`
+1. Clone this repository: `git clone https://github.com/cadakerem/chase-runner.git`
 2. Open the `.sln` solution file in **Visual Studio**.
 3. Restore NuGet packages, build, and run the project! (All necessary MonoGame Content assets are included).
